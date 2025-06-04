@@ -1,9 +1,8 @@
 ## Hi there, I am Muneeb 👋
 
-I'm a Computer Science student at the Memorial University of Newfoundland (Class of 2026), aspiring to become a Robotics Software Developer.
+I'm a Computer Science student at the Memorial University of Newfoundland (Class of 2026).
 
-- 🔭 I’m currently working on creating a cool 3D interactive pomodoro timer using THREEJS
-- 🌱 I’m currently learning ROS2 (Jazzy) and all its counterparts components, OpenCV, TensorFlow, and a bit of Web Programming (THREEJS)
+- (placeholder)
 
 <!--
 **b1inu/b1inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
