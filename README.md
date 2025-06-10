@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the Memorial University of Newfoundland (Class of 2026).
 
-- (placeholder)
+- I'm literally just a vibe coder at this point...
 
 <!--
 **b1inu/b1inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
