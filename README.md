@@ -1,15 +1,16 @@
-## gae
-<!--
-**b1inu/b1inu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there
+___
+My name is Muneeb Mennad, an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specialized Smart Systems.
 
-Here are some ideas to get you started:
+🖥️ My interests lie in Cybersecurity, Embedded Systems, and Robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ Outside of my academic and professional pursuits, I am passionate about sport, especially football.
+
+📖 I am also a huge fan of light novels.
+
+🔭 I’m currently working on a terminal password generator.
+
+🌱 I’m currently learning shell scripting.
+
+📫 How to reach me:
+email: mmennad@mun.ca
