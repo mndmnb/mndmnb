@@ -22,8 +22,6 @@ I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pu
 
 ⚽ Outside of my academic and professional pursuits, I am passionate about sport, especially football.
 
-📖 I am also a huge fan of light novels.
-
 🔭 I’m currently working on a terminal password manager.
 
 # Skills
