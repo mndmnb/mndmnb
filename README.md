@@ -12,17 +12,17 @@
 
 <br>
 
-# <img src="wave.gif" width="30px"> Hi there!
+# <img src="wave.gif" width="30px"> Hello
 
 My name is Muneeb Mennad. 
 
-I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science, specializing in Smart Systems.
+I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science.
 
-🖥️ My interests lie in Cybersecurity and the Internet of Things.
+My interests lie in Cybersecurity and the Internet of Things.
 
-⚽ Outside of my academic and professional pursuits, I am passionate about sport, especially football.
+I am getting into ricing setups...
 
-🔭 I’m currently working on a terminal password manager.
+I’m currently working on a terminal password manager.
 
 # Skills
 <p align="center">
