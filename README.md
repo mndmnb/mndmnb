@@ -13,14 +13,11 @@
 <br>
 
 # <img src="wave.gif" width="30px"> Hello
-
-My name is Muneeb Mennad. 
-
 I am an undergraduate student at Memorial University of Newfoundland 🇨🇦 pursuing a BSc in Computer Science.
 
-My interests lie in Cybersecurity and the Internet of Things.
+I am interested in security software development
 
-I am getting into ricing setups...
+I also like ricing setups
 
 I’m currently working on a terminal password manager.
 
